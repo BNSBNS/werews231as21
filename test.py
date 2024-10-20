@@ -1,7 +1,7 @@
 import unittest
 
 from car.edison import Edison
-from simulation import Simulation
+from simulation.simulation import Simulation
 
 
 class TestCarSimulation(unittest.TestCase):

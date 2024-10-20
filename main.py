@@ -1,5 +1,5 @@
 from car.edison import Edison
-from simulation import Simulation
+from simulation.simulation import Simulation
 
 
 def main():
